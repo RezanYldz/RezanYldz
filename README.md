@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rezan Yildiz
+- 👋 Hi, I’m Rezan Yıldız
 - 👀 I’m interested in C#, .Net Core and Angular
 - 🌱 I’m currently learning Docker and redis
 - 📫 Reach me to rznyildiz@gmail.com
